@@ -3,4 +3,4 @@ A collection of implementations of Generative Networks implemented using __Tenso
 
 | Model | Dataset     | Output                | Library    |
 | :---: | :-----:     | :----:                | :------:   |
-| DCGAN | FashionMNist| Image of new sneakers | Tensorflow |
+| DCGAN | FashionMnist| Image of new sneakers | Tensorflow |
