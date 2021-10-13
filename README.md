@@ -3,7 +3,7 @@ A collection of implementations of Generative Networks implemented using __Tenso
 
 | Model | Dataset     | Output                | Library    |
 | :---: | :-----:     | :----:                | :------:   |
-| [DCGAN](https://medium.com/analytics-vidhya/generating-new-sneakers-using-generative-adversarial-networks-gan-384322ce5f28) | FashionMnist| Image of new sneakers | Tensorflow |
+| [DCGAN](https://medium.com/analytics-vidhya/generating-new-sneakers-using-generative-adversarial-networks-gan-384322ce5f28) | FashionMnist| Sneakers image | Tensorflow |
 | Pix2Pix | | | |
 | CycleGAN | | | |
 | StyleGAN | | | | 
